@@ -2,7 +2,7 @@
   "name": "initialize",
   "version": "0.1.0",
   "description": "This module gets the initials of any name passed to it",
-  "main": "random.js",
+  "main": "initialize.js",
   "scripts": {
     "test": "mocha --reporter spec test"
   },
