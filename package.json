@@ -1,0 +1,21 @@
+{
+  "name": "initialize",
+  "version": "0.1.0",
+  "description": "This module gets the initials of any name passed to it",
+  "main": "random.js",
+  "scripts": {
+    "test": "mocha --reporter spec test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bretuobay/initialize.git"
+},
+  "keywords": [
+
+  ],
+  "author": "Festus Yeboah",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.0.2"
+  }
+}

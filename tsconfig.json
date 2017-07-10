@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+       "target": "es6",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    },
+    "declarations": true,
+    "exclude": [
+    "node_modules"
+  ],
+    "files": [
+      "lib/initials-config.interface.ts",
+      "lib/lang-honorifics.list.ts",
+      "lib/random.ts"
+    ]
+}
